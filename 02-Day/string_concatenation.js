@@ -10,6 +10,8 @@ let job = 'teacher'
 let fullName = firstName + space + lastName // concatenation, merging two string together.
 console.log(fullName)
 
+
+let age = 29;
 let personInfoOne = fullName + '. I am ' + age + '. I live in ' + country // ES5
 console.log(personInfoOne)
 // Concatenation: Template Literals(Template Strings)

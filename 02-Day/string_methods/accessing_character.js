@@ -10,3 +10,11 @@ console.log(lastLetter) // t
 let lastIndex = string.length - 1
 console.log(lastIndex) // 9
 console.log(string[lastIndex]) // t
+
+
+
+
+let myName = 'Mar Coloma Fernandez Villamil';
+let ultimaPosicion = myName.length - 1;
+console.log(ultimaPosicion);
+console.log(myName[ultimaPosicion]);
